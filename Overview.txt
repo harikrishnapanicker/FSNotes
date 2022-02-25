@@ -1,0 +1,18 @@
+App:
+
+User able to type notes and save them
+User able to see list of notes by date and read them
+User able to edit notes
+
+
+Backend:
+
+Fetch All notes with date and title
+Fetch specific note
+Save note
+
+DB:
+
+Save note
+Fetch notes with title
+Fetch note by index
