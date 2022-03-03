@@ -5,17 +5,5 @@ User able to see list of notes by date and read them
 User able to edit notes
 
 -- Swift
+-- Firebase
 
-Backend:
-
-Fetch All notes with date and title
-Fetch specific note
-Save note
-
-
-
-Save note
-Fetch notes with title
-Fetch note by index
-
--- MongoDB
