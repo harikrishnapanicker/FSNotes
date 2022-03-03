@@ -1,0 +1,24 @@
+ platform :ios, '13'
+
+target 'FSNotes' do
+
+  use_frameworks!
+
+  # Pods for FSNotes
+
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Database'
+
+
+  target 'FSNotesTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'FSNotesUITests' do
+    # Pods for testing
+  end
+
+end
